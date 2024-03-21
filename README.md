@@ -2,5 +2,4 @@
 
 [![Solved.ac lisiant01](http://mazassumnida.wtf/api/v2/generate_badge?boj=lisiant01)](https://solved.ac/lisiant01)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lisiant&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Lisiant&show_icons=true">
