@@ -24,7 +24,6 @@
 
 **🛠️ Infra & Tools**
 <br><br>
-<img src="https://img.shields.io/badge/VMware-607078.svg?&style=flat-square&logo=vmware&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Elastic%20Stack-005571.svg?&style=flat-square&logo=elasticstack&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
